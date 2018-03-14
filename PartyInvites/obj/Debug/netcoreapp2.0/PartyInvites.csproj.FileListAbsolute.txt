@@ -1,0 +1,11 @@
+c:\users\migue\documents\visual studio 2017\Projects\PartyInvites\PartyInvites\bin\Debug\netcoreapp2.0\PartyInvites.deps.json
+c:\users\migue\documents\visual studio 2017\Projects\PartyInvites\PartyInvites\bin\Debug\netcoreapp2.0\PartyInvites.runtimeconfig.json
+c:\users\migue\documents\visual studio 2017\Projects\PartyInvites\PartyInvites\bin\Debug\netcoreapp2.0\PartyInvites.runtimeconfig.dev.json
+c:\users\migue\documents\visual studio 2017\Projects\PartyInvites\PartyInvites\bin\Debug\netcoreapp2.0\PartyInvites.dll
+c:\users\migue\documents\visual studio 2017\Projects\PartyInvites\PartyInvites\bin\Debug\netcoreapp2.0\PartyInvites.pdb
+c:\users\migue\documents\visual studio 2017\Projects\PartyInvites\PartyInvites\obj\Debug\netcoreapp2.0\PartyInvites.csprojResolveAssemblyReference.cache
+c:\users\migue\documents\visual studio 2017\Projects\PartyInvites\PartyInvites\obj\Debug\netcoreapp2.0\PartyInvites.csproj.CoreCompileInputs.cache
+c:\users\migue\documents\visual studio 2017\Projects\PartyInvites\PartyInvites\obj\Debug\netcoreapp2.0\PartyInvites.AssemblyInfoInputs.cache
+c:\users\migue\documents\visual studio 2017\Projects\PartyInvites\PartyInvites\obj\Debug\netcoreapp2.0\PartyInvites.AssemblyInfo.cs
+c:\users\migue\documents\visual studio 2017\Projects\PartyInvites\PartyInvites\obj\Debug\netcoreapp2.0\PartyInvites.dll
+c:\users\migue\documents\visual studio 2017\Projects\PartyInvites\PartyInvites\obj\Debug\netcoreapp2.0\PartyInvites.pdb
