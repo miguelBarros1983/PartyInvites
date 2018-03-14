@@ -13125,11 +13125,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "c:\\users\\migue\\documents\\visual studio 2017\\Projects\\PartyInvites\\PartyInvites\\PartyInvites.csproj",
+      "projectUniqueName": "C:\\Users\\migue\\Desktop\\GitHubProjects\\PartyInvites\\PartyInvites\\PartyInvites.csproj",
       "projectName": "PartyInvites",
-      "projectPath": "c:\\users\\migue\\documents\\visual studio 2017\\Projects\\PartyInvites\\PartyInvites\\PartyInvites.csproj",
+      "projectPath": "C:\\Users\\migue\\Desktop\\GitHubProjects\\PartyInvites\\PartyInvites\\PartyInvites.csproj",
       "packagesPath": "C:\\Users\\migue\\.nuget\\packages\\",
-      "outputPath": "c:\\users\\migue\\documents\\visual studio 2017\\Projects\\PartyInvites\\PartyInvites\\obj\\",
+      "outputPath": "C:\\Users\\migue\\Desktop\\GitHubProjects\\PartyInvites\\PartyInvites\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

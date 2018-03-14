@@ -14,6 +14,11 @@ namespace PartyInvites.Controllers
             return View("MyView");
         }
 
+        public ViewResult RespForm()
+        {
+            return View("RspvForm");
+        }
+
         public IActionResult About()
         {
             ViewData["Message"] = "Your application description page.";
